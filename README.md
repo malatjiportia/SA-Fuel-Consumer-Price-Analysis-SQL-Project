@@ -1,5 +1,3 @@
-# SA-Fuel-Consumer-Price-Analysis-SQL-Project
-
 # SA Fuel & Consumer Price Analysis
 
 SQL project analysing South African petrol/diesel prices alongside a basic food basket, CPI, and unemployment across four provinces (Gauteng, Limpopo, Western Cape, KwaZulu-Natal) from **January 2021 to April 2024** (40 monthly observations per province, 160 rows total).
